@@ -86,5 +86,3 @@ CREATE TABLE titles (
 	title VARCHAR(20) NOT NULL,
 	PRIMARY KEY (title_id)
 );
-
- n
