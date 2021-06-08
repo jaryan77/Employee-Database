@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-A database query project on employee data of a fictitious company. Using the provided data, I create a data model including an ERD diagram and [table schema](https://github.com/jaryan77/Employee-Database/blob/main/EmployeeSQL/table_schema.sql) that includes specific data types, primary keys, foreign keys, and other constraints. Data collected from CSVs is then loaded to the SQL database to perform a [data analysis](https://github.com/jaryan77/Employee-Database/blob/main/EmployeeSQL/data_analysis.sql).
+A database query project on employee data of a fictitious company. Using the provided data, I create a data model including an [Entity Relationship Diagram (ERD)](https://github.com/jaryan77/Employee-Database/blob/main/EmployeeSQL/ERD.png) and [table schema](https://github.com/jaryan77/Employee-Database/blob/main/EmployeeSQL/table_schema.sql) that includes specific data types, primary keys, foreign keys, and other constraints. Data collected from CSVs is then loaded to the SQL database to perform a [data analysis](https://github.com/jaryan77/Employee-Database/blob/main/EmployeeSQL/data_analysis.sql).
 
 ## Background
 
@@ -12,7 +12,7 @@ In this project, I performed Data Modeling, Data Engineering, and Data Analysis
 
 * First, inspect the CSVs and sketch out an ERD of the tables.
 
-* I chose to use the following free tool: [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+* I chose to use [Quick DBD](http://www.quickdatabasediagrams.com) as a way of creating my ERD.
 
 #### Data Engineering
 
