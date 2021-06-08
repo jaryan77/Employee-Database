@@ -1,10 +1,10 @@
 # Employee Database: A Mystery in Two Parts
 
-A database query project on employee data of a fictitious company. Using the provided data, I create a data model including an ERD diagram and table schema that includes specific data types, primary keys, foreign keys, and other constraints. Data collected from CSVs is then loaded to the SQL database to perform a data analysis.
+A database query project on employee data of a fictitious company. Using the provided data, I create a data model including an ERD diagram and [table schema](https://github.com/jaryan77/Employee-Database/blob/main/EmployeeSQL/table_schema.sql) that includes specific data types, primary keys, foreign keys, and other constraints. Data collected from CSVs is then loaded to the SQL database to perform a [data analysis](https://github.com/jaryan77/Employee-Database/blob/main/EmployeeSQL/data_analysis.sql).
 
 ## Background
 
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are [six CSV files](https://github.com/jaryan77/Employee-Database/tree/main/data).
 
 In this project, I performed Data Modeling, Data Engineering, and Data Analysis
 
