@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-An database query project on employee data of a fictitious company. Using the provided data, I create a data model including an ERD diagram and table schema that includes specific data types, primary keys, foreign keys, and other constraints. Data collected from CSVs is then loaded to the SQL database to perform a data analysis.
+A database query project on employee data of a fictitious company. Using the provided data, I create a data model including an ERD diagram and table schema that includes specific data types, primary keys, foreign keys, and other constraints. Data collected from CSVs is then loaded to the SQL database to perform a data analysis.
 
 ## Background
 
