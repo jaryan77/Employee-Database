@@ -41,3 +41,12 @@ Once I had a complete database, I was tasked to do the following:
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 
+### Running the Code
+
+1. To run this code, simply clone the repository to your local machine. 
+
+2. You will need to have PgAdmin installed in order to run PostgreSQL. You can do so by following [this link](https://www.pgadmin.org/download/pgadmin-4-apt/)
+
+3. From there, you will be able to run queries as you see fit!
+
+
